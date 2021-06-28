@@ -5,6 +5,22 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "yes",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "mm,,m",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      },
+      {
+        "title": "comp1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 2
+      }
+    ]
   }
 }
